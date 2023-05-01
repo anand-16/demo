@@ -1,4 +1,3 @@
-# demo
-##Editing a file
+#Demo
 
-It was good time working with the editing tools.
+This is the repository where all the new practiced thing are kept. 
